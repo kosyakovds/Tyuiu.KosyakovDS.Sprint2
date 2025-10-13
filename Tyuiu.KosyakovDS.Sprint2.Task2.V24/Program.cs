@@ -1,5 +1,4 @@
-﻿using Tyuiu.KosyakovDS.Sprint2.Task2.V24;
-using Tyuiu.KosyakovDS.Sprint2.Task2.V24.Lib;
+﻿using Tyuiu.KosyakovDS.Sprint2.Task2.V24.Lib;
 
 namespace Tyuiu.KosyakovDS.Sprint2.Task2.V24
 {
