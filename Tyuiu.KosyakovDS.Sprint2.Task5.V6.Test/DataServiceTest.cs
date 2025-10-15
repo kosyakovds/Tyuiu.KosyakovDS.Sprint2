@@ -14,7 +14,7 @@ namespace Tyuiu.KosyakovDS.Sprint2.Task5.V6.Test
             int value2 = 10;
             string res = ds.FindCardNameAndValue(value1, value2);
 
-            string wait = "десятка бубны";
+            string wait = "десятка бубен";
 
             Assert.AreEqual(wait, res);
         }

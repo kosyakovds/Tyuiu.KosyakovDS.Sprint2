@@ -13,16 +13,16 @@ namespace Tyuiu.KosyakovDS.Sprint2.Task5.V6.Lib
             switch (m)
             {
                 case 1:
-                    a = "пики";
+                    a = "пик";
                     break;
                 case 2:
-                    a = "трефы";
+                    a = "треф";
                     break;
                 case 3:
-                    a = "бубны";
+                    a = "бубey";
                     break;
                 case 4:
-                    a = "червы";
+                    a = "черв";
                     break;
                 default:
                     throw new ArgumentException("1 <= m <= 4");
